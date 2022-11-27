@@ -1,4 +1,4 @@
-# MNE_through
+# MNE_brainwaves_analysis
 
 MNE-Python is an open-source Python package for working with EEG and MEG data. It was originally developed as a Python port (translation from one programming language to another) of a software package called MNE. [1]
 
@@ -10,11 +10,11 @@ A study on EEG accuracy of epileptiform discharges (ED) diangosis. Amongst adult
 
 How MNE helps EEG diagnosis? MNE provides comprehensive analysis tools and workflows including preprocessing, source estimation, time–frequency analysis, statistical analysis, and several methods to estimate functional connectivity between distributed brain regions. [3]
 
-  a. MNE software provides a complete pipeline for MEG and EEG data analysis
-  b. MNE covers preprocessing, forward modeling, inverse methods, and visualization
-  c. MNE supports advanced analysis: time-frequency, statistics, and connectivity
-  d. MNE-Python enables fast and memory-efficent processing of large data sets
-  e. The MNE-Python is open-source software supporting a collaborative development effort
+ 1. a. MNE software provides a complete pipeline for MEG and EEG data analysis
+ 2. b. MNE covers preprocessing, forward modeling, inverse methods, and visualization
+ 3. c. MNE supports advanced analysis: time-frequency, statistics, and connectivity
+ 4. d. MNE-Python enables fast and memory-efficent processing of large data sets
+ 5. e. The MNE-Python is open-source software supporting a collaborative development effort
   
  This project explored most of MNE (version 1.2.2) function for analyzing EEG, MEG, EOG, etc signals. and provided a complete overview of brain wave analysis. 
  
